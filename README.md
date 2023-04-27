@@ -61,6 +61,9 @@ Chart showing year on year energy demand values to show patterns trough years:  
 <br> ✔️ Energy demand depends the most on Temperatures & Reinfall values (extreme temperatures and no rain results in highest energy demand values) </br>
 <br> ✔️ Holidays days don't change much in energy demand values, they are just slightly lower than school days values</br>
 <br> ✔️ Energy demand values are the lowest on Saturdays/Sundays</br>
+<br></br>
+<h2>Additional knowlege:</h2>
+<br>✔️ Data Lifecycle</br>
 </p>
 
 <!--
